@@ -5,6 +5,7 @@
 To better understand the ways that families can stay connected, I have chosen to analyze two apps: Google Photos and WhatsApp. Google Photos is an app that enables families to share memories and events through photos, fostering a sense of engagement and shared experience while WhatsApp is a widely-used communication app that facilitates seamless communication between family members, regardless of their physical location. By examining how families use these apps to maintain their relationships, I hope to gain insights into the different strategies and tools that families employ to stay connected and engaged.
  
  ## [Google Photos](https://www.google.com/photos/about/)
+ ![gp image](googlephotos.png)
   * Google Photos is a photo and video storage app that allows users to back up and access their media files from any device with internet access. The app automatically organizes photos by date and location, and uses advanced AI technology to identify people and objects, and even pets, in the photos, making it easy to search and share specific images with family and friends. Most importantly, however, Google Photos allows users to share their photos with others, either by creating shared albums or sending individual photos or links.
   
   * Overall Evaluation: With the ability easily share media through shared albums or by sending individual photos or links, Google photos allow families to share their memories with each other in a seamless and engaging way. Additionally, The app's cloud-based storage ensures that photos are accessible from any device with an internet connection, making it easy for families to stay connected and share their experiences. Overall, Google Photos is a great app for families.
@@ -28,6 +29,7 @@ Severity Rating:
 * Not an issue: Match between system and the real world; Consistency and standards; Error prevention; Help and documentation
  
  ## [Whatsapp](https://www.whatsapp.com/)
+ ![wa image](whatsapp.png)
   * WhatsApp is a messaging app that enables users to send and receive text messages, voice messages, photos, and videos, as well as make voice and video calls. The app uses end-to-end encryption to ensure that messages and calls are secure and private. WhatsApp also offers group chat functionality, allowing users to create groups of up to 256 members, making it ideal for families to stay connected and communicate with multiple family members at once. Additionally, WhatsApp supports a range of multimedia features, such as stickers and GIFs, to make messaging more engaging and interactive.
   
   * Overall Evaluation: WhatsApp is a highly versatile and reliable app that is an excellent choice for families looking to stay connected and communicate with one another. Its ease of use, end-to-end encryption, and group chat functionality make it an ideal choice for families who want a secure and convenient way to stay in touch.
@@ -49,5 +51,3 @@ Severity Rating:
 * Top Priority: User control and freedom; Error Prevention; 
 * Small Inconvenience: Consistency and standards; Recognition rather than recall, Flexibility and efficiency of use
 * Not an Issue: Visibility of system status; Match between system and the real world, Aesthetic and Minimalist Design; Help users recognize, diagnose, and recover from errors; Help and documentation
-
-![dummy image](send.png)
